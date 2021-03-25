@@ -6,11 +6,11 @@
 ## 문제 설명
 
   #### 0~1 숙련도 문제 
-  - [three_five - 10points]() 
-  - [palindrome - 15points]()
+  - [three_five - 10points](https://github.com/CogWorksBWSI/PythonHW/blob/master/three_five/HW_three_five_threefive.ipynb) 
+  - [palindrome - 15points](https://github.com/CogWorksBWSI/PythonHW/blob/master/palindrome/HW_palindrome.ipynb)
   #### 2~4 숙련도 문제
-  - [palindrome - 10points]()
-  - [pizza_shop - 15points]()
+  - [palindrome - 10points](https://github.com/CogWorksBWSI/PythonHW/blob/master/palindrome/HW_palindrome.ipynb)
+  - [pizza_shop - 15points](https://github.com/CogWorksBWSI/PythonHW/blob/master/pizza_shop/HW_pizza_shop.ipynb)
 ### 조건
 
 1. 구글링은 자유롭게 사용 할 수 있지만, 유사한 문제의 코드를 보는 것은 `금지`입니다.   
