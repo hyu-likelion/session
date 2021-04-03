@@ -8,9 +8,11 @@
   #### 0~1 숙련도 문제 
   - [three_five - 10points](https://github.com/CogWorksBWSI/PythonHW/blob/master/three_five/HW_three_five_threefive.ipynb) 
   - [palindrome - 15points](https://github.com/CogWorksBWSI/PythonHW/blob/master/palindrome/HW_palindrome.ipynb)
+  - [2021년도 카카오 공채 1번 - 20points](https://programmers.co.kr/learn/courses/30/lessons/72410)
   #### 2~4 숙련도 문제
   - [palindrome - 10points](https://github.com/CogWorksBWSI/PythonHW/blob/master/palindrome/HW_palindrome.ipynb)
-  - [pizza_shop - 15points](https://github.com/CogWorksBWSI/PythonHW/blob/master/pizza_shop/HW_pizza_shop.ipynb)
+  - [2021년도 카카오 공채 1번 - 15points](https://programmers.co.kr/learn/courses/30/lessons/72410)
+  - [pizza_shop - 20points](https://github.com/CogWorksBWSI/PythonHW/blob/master/pizza_shop/HW_pizza_shop.ipynb)
 ### 조건
 
 1. 구글링은 자유롭게 사용 할 수 있지만, 유사한 문제의 코드를 보는 것은 `금지`입니다.   
