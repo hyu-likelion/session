@@ -31,5 +31,5 @@
 - ex) week1/김효일/three_five.py, week1/김효일/pizza_shop.py
 
 ### 출처
-[CogWorksBWSI/PythonHW](https://github.com/CogWorksBWSI/PythonHW)
-[프로그래머스](https://programmers.co.kr/learn/challenges)
+- [CogWorksBWSI/PythonHW](https://github.com/CogWorksBWSI/PythonHW) 
+- [프로그래머스](https://programmers.co.kr/learn/challenges)
