@@ -5,7 +5,7 @@
 
 ## 요구사항
 - survey 내용은 admin에서 작성합니다 (python manage.py createsuperuser를 통해서 superuser를 만든 뒤, 127.0.0.1/admin에 들어가 survey를 작성합니다.)
-![어드민 이미지](django_admin.PNG)
+<br/>![어드민 이미지](django_admin.PNG)
 - answer를 form을 통해서 받은 뒤, 결과화면이 나오도록 구성합니다.
 - 결과 화면에서는 답안을 전체적으로 보여줍니다.
 
