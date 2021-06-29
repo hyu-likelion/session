@@ -4,6 +4,6 @@
 ### 각각의 동작 방법은 README를 참고하세요.
 
 ## :bulb: React [클릭](https://github.com/hyu-likelion/session/tree/master/week8(06.30)/todofront/REAEME.md)
-## :bulb: Django [Link](https://github.com/hyu-likelion/session/blob/master/week8(06.30)/todoback/REAEME.md)
+## :bulb: Django [클릭](https://github.com/hyu-likelion/session/blob/master/week8(06.30)/todoback/REAEME.md)
 
 
